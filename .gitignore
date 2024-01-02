@@ -3,3 +3,4 @@ keys/
 .env
 /postgres
 dist/
+coverage/

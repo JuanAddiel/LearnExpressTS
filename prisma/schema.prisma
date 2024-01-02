@@ -12,5 +12,5 @@ datasource db {
 model todos{
   id Int @id @default(autoincrement())
   text String
-  createdAt DateTime? @default(now())
+  createdAt DateTime? 
 }
